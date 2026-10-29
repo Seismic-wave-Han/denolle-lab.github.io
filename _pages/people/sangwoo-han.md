@@ -39,10 +39,9 @@ I am a seismologist and a postdoctoral scholar at the University of Washington, 
 I received my Ph.D. in Seismology and Geophysics from Seoul National University in 2026. My doctoral research used dense seismic arrays and distributed acoustic sensing (DAS) to resolve fault structure and earthquake rupture complexity at sub-kilometer scales.
 
 ## Research - Disciplinary Interests
-- Rupture processes and source complexity of small earthquakes
-- Distributed acoustic sensing and dense nodal / broadband arrays
-- Focal mechanisms from S-wave polarization and stress inversion
-- Microearthquake detection and location
+- Earthquake physics & source analysis
+- Utilization of DAS and dense nodal/broadband arrays
+- Software development for seismology & geophysics
 - Multi-sensor hazard monitoring at Mount Rainier
 
 ## Education
