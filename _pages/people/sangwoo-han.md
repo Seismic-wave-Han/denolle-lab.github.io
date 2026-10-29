@@ -33,12 +33,12 @@ github: https://github.com/Seismic-wave-Han
 
 ---
 
-## About
-I am a seismologist and a postdoctoral researcher at the University of Washington, working with Marine Denolle and Paul Bodin on multi-hazard, multi-sensor monitoring at Mount Rainier. I received my Ph.D. in Seismology and Geophysics from Seoul National University in 2026.
+## About Me
+I am a seismologist and a postdoctoral scholar at the University of Washington, working with Marine Denolle and Paul Bodin on multi-hazard, multi-sensor monitoring at Mount Rainier. I received my Ph.D. in Seismology and Geophysics from Seoul National University in 2026.
 
 My research uses dense seismic arrays and distributed acoustic sensing (DAS) to resolve fault structure and earthquake rupture complexity at sub-kilometer scales.
 
-## Research Interests
+## Research - Disciplinary Interests
 - Rupture processes and source complexity of small earthquakes
 - Distributed acoustic sensing and dense nodal / broadband arrays
 - Focal mechanisms from S-wave polarization and stress inversion
@@ -49,7 +49,6 @@ My research uses dense seismic arrays and distributed acoustic sensing (DAS) to 
 - Ph.D. in Seismology and Geophysics - Seoul National University, Korea, 2026
 - B.S. in Earth and Environmental Sciences; B.S. in Computational Sciences - Seoul National University, Korea, 2021
 
-## Selected Publications
-- Han, S. & Kim, Y. "Determining small earthquake focal mechanisms using 360° S-wave polarization: Insights from dense seismic arrays." *Geophysical Journal International*, 2026. [doi:10.1093/gji/ggaf530](https://doi.org/10.1093/gji/ggaf530)
-- Han, S. et al. "Rupture model of the 5 April 2024 Tewksbury, New Jersey, earthquake based on regional Lg-wave data." *The Seismic Record*, 2024. [doi:10.1785/0320240020](https://doi.org/10.1785/0320240020)
-- Han, S. et al. "Resolving multi-stage rupture process of the 2021 M<sub>w</sub> 4.9 offshore Jeju Island earthquake from relative source time functions." *Geophysical Research Letters*, 2024. [doi:10.1029/2023GL106059](https://doi.org/10.1029/2023GL106059)
+## Latest
+- "Determining small earthquake focal mechanisms using 360° S-wave polarization" published in *Geophysical Journal International* (2026). [doi:10.1093/gji/ggaf530](https://doi.org/10.1093/gji/ggaf530)
+- Received the [Student Presentation Award](https://www.seismosoc.org/news/2025-annual-meeting-student-presentation-awards-announced/) at the 2025 SSA Annual Meeting.
