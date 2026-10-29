@@ -47,7 +47,3 @@ I received my Ph.D. in Seismology and Geophysics from Seoul National University 
 ## Education
 - Ph.D. in Seismology and Geophysics - Seoul National University, Korea, 2026
 - B.S. in Earth and Environmental Sciences; B.S. in Computational Sciences - Seoul National University, Korea, 2021
-
-## Latest
-- "Determining small earthquake focal mechanisms using 360° S-wave polarization" published in *Geophysical Journal International* (2026). [doi:10.1093/gji/ggaf530](https://doi.org/10.1093/gji/ggaf530)
-- Received the [Student Presentation Award](https://www.seismosoc.org/news/2025-annual-meeting-student-presentation-awards-announced/) at the 2025 SSA Annual Meeting.
