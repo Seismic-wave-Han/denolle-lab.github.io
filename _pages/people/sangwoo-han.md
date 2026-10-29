@@ -36,7 +36,7 @@ github: https://github.com/Seismic-wave-Han
 ## About Me
 I am a seismologist and a postdoctoral scholar at the University of Washington, working with Marine Denolle and Paul Bodin on multi-hazard, multi-sensor monitoring at Mount Rainier. I am currently analyzing volcano-tectonic earthquakes and surface events driven by interactions among ice, water, and rock at the volcano. Specifically, I am examining fault activation and stress changes during the 2025 earthquake swarm beneath the summit.
 
-I received my Ph.D. in Seismology and Geophysics from Seoul National University in 2026. My research uses dense seismic arrays and distributed acoustic sensing (DAS) to resolve fault structure and earthquake rupture complexity at sub-kilometer scales.
+I received my Ph.D. in Seismology and Geophysics from Seoul National University in 2026. My doctoral research used dense seismic arrays and distributed acoustic sensing (DAS) to resolve fault structure and earthquake rupture complexity at sub-kilometer scales.
 
 ## Research - Disciplinary Interests
 - Rupture processes and source complexity of small earthquakes
