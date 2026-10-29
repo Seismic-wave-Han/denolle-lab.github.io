@@ -4,7 +4,7 @@ id: sangwoo-han
 title: "Sangwoo Han"
 permalink: /people/sangwoo-han/
 photo: sangwoo-han.png
-short_description: "Seismologist - Multi-hazard, multi-sensor monitoring at Mount Rainier"
+short_description: "Postdoctoral Scholar - Seismologist"
 email: sangwooh@uw.edu
 website: https://seismic-wave-han.github.io
 scholar: https://scholar.google.com/citations?user=--qiqDYAAAAJ
