@@ -3,6 +3,11 @@
   role: Associate Professor
   photo: marine-denolle.jpg
   research_areas: environment, earthquakes, geoscience-ai, offshore
+- id: sangwoo-han
+  name: Sangwoo Han
+  role: Postdoctoral Researcher
+  photo: sangwoo-han.png
+  research_areas: earthquakes, environment
 - id: michael-hemmett
   name: Michael Hemmett
   role: Graduate Student
