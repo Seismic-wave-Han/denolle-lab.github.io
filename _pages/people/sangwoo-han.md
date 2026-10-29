@@ -40,7 +40,7 @@ I received my Ph.D. in Seismology and Geophysics from Seoul National University 
 
 ## Research - Disciplinary Interests
 - Earthquake physics & source analysis
-- Utilization of DAS and dense nodal/broadband arrays
+- Utilization of DAS & dense nodal/broadband arrays
 - Software development for seismology & geophysics
 - Multi-sensor hazard monitoring at Mount Rainier
 
